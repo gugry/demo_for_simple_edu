@@ -1,1 +1,1 @@
-print('lesson 1 Числа var 1  output')
+print('lesson 1 string var 1  output')
